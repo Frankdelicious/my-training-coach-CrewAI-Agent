@@ -1,0 +1,6 @@
+crewai[tools]>=0.186.1
+openai>=1.108.0
+pandas>=2.3.2
+python-dotenv>=1.1.1
+flask>=2.3.0
+gunicorn>=23.0.0
